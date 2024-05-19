@@ -19,6 +19,9 @@ I used the cascaded architecture presented in this [article](https://arxiv.org/p
 # Visualised Results
 
 GroundTruth
+
 ![](https://github.com/kondukberna/Brain_Tumor_Segmentation/blob/main/images/image33.gif)
+
 UNet++ Result
+
 ![](https://github.com/kondukberna/Brain_Tumor_Segmentation/blob/main/images/image34.gif)
